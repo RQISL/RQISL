@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rqisl&label=Profile%20views&color=0e75b6&style=flat" alt="rqisl" /> </p>
 
-- 🌱 I’m currently learning **Remote Ready Work**
+- 🌱 I’m currently learning **Remote Work Ready**
 
 - 👨‍💻 All of my projects are available at [https://robert-quinlan-resume-c64b50165280.herokuapp.com/](https://robert-quinlan-resume-c64b50165280.herokuapp.com/)
 
