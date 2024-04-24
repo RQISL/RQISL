@@ -1,4 +1,4 @@
-<h1> I'm Robert</h1>
+<div><img src="example.svg"/></div>
 
 <h3 align="center">A passionate frontend developer from Cork, Ireland</h3>
 
