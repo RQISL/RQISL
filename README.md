@@ -30,3 +30,31 @@ src="https://img.shields.io/github/followers/RQISL?logo=github&style=for-the-bad
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/RQISL"><img src="https://github-readme-stats.vercel.app/api?username=RQISL&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RQISL's GitHub stats" /></a>
+{
+  "type": "Assertion",
+  "id": "https://api.eu.badgr.io/public/assertions/espARZthQXaVVODBUkKJvQ",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "5UNGlY2WNzvYx3oo",
+    "hashed": true,
+    "identity": "sha256$da76e8372fb78a086c401448680ca0daf9a852af890b1f5b88c63e5fc62562ab"
+  },
+  "badge": "https://api.eu.badgr.io/public/badges/2GvBwvSeQpi3W96VDdAycA",
+  "issuedOn": "2024-08-20T22:00:00Z",
+  "image": {
+    "id": "https://api.eu.badgr.io/public/assertions/espARZthQXaVVODBUkKJvQ/image"
+  },
+  "revoked": false,
+  "verification": {
+    "type": "HostedBadge"
+  },
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "Robert Quinlan"
+  }
+}
