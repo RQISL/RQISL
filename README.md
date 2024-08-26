@@ -27,6 +27,12 @@ src="https://img.shields.io/github/followers/RQISL?logo=github&style=for-the-bad
 
 ### Badges
 
+<b>August 2024 Hackathon: Participant Adwarded<b>
+
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif; background-color: white"><a href="https://api.eu.badgr.io/public/assertions/espARZthQXaVVODBUkKJvQ?identity__email=quinlanrobert%40yahoo.com"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/espARZthQXaVVODBUkKJvQ/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">August 2024 Hackathon: Participant</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>20 Aug 2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Robert Quinlan</span></p><script async="async" src="https://eu.badgr.com/assets/widgets.bundle.js"></script></blockquote>
+<br>
+
 <b>My GitHub Stats</b>
+<br>
 
 <a href="http://www.github.com/RQISL"><img src="https://github-readme-stats.vercel.app/api?username=RQISL&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RQISL's GitHub stats" /></a>
