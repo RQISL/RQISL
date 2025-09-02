@@ -7,7 +7,7 @@ Junior Frontend & Backend Web Developer
 I hold an honours degree in BA Multimedia, which has given me an in-depth understanding of project management and software & hardware development. I have also completed a full-stack software development course online at Code Institute, where I gained expertise in HTML, CSS, JavaScript, jQuery, Python, SQL, PHP, and Django. I am particularly interested in designing UX/UI for the accessibility range of disability needs/wants, ensuring that websites are friendly and interactive for everyone. I have included a link to my portfolio website, where you can find examples of my previous work and experiences. Please note that my portfolio video site does not have audio, but I worked with a former colleague to create audio, which I combined into an animation film that showcases my skills.
 
 * 🌍  I'm based in Cork, Ireland
-* 🖥️  See my portfolio at [Robert's Portfolios]([https://robert-quinlan-cv-b1d565eee35f.herokuapp.com/])
+* 🖥️  See my portfolio at [Robert's Portfolios](https://robert-quinlan-cv-b1d565eee35f.herokuapp.com/)
 * ✉️  You can contact me at [quinlanrobert@yahoo.com](mailto:quinlanrobert@yahoo.com)
 
 <a href="https://www.github.com/RQISL" target="_blank" rel="noreferrer"><img
